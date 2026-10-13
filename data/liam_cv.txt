@@ -1,0 +1,124 @@
+
+==================================================================
+LIAM OKAFOR
+Junior AI Engineer
+Melbourne VIC, Australia
+Phone: 0491 570 159
+Email: liam.okafor@example.com
+GitHub: github.com/example-liam-okafor
+LinkedIn: linkedin.com/in/example-liam-okafor
+==================================================================
+
+PROFESSIONAL SUMMARY
+------------------------------------------------------------------
+Junior AI Engineer with 1.5 years of industry experience building and
+deploying machine learning and large language model (LLM) features.
+Comfortable working in Python across the full path from data
+preparation to model serving. Recent work includes retrieval
+augmented generation (RAG) for internal search and simple agent
+workflows using tool calling. Keen to keep learning and to grow into
+production ML and AI platform work.
+
+
+KEY SKILLS
+------------------------------------------------------------------
+Programming
+  * Python (main language), SQL, basic TypeScript
+  * Git, Linux command line, Docker
+
+Machine learning and AI
+  * PyTorch, scikit learn, Hugging Face Transformers
+  * LLM application development: prompting, RAG, tool calling
+  * LangChain, LlamaIndex
+  * Vector databases: ChromaDB, pgvector
+  * Model evaluation and basic experiment tracking (MLflow)
+
+Cloud and deployment
+  * AWS (S3, Lambda, SageMaker basics), Azure OpenAI
+  * FastAPI for model and API services
+  * GitHub Actions for simple CI pipelines
+
+Ways of working
+  * Agile teams, code reviews, writing clear documentation
+  * Explaining technical ideas to non technical colleagues
+
+
+PROFESSIONAL EXPERIENCE
+------------------------------------------------------------------
+
+Junior AI Engineer
+Northwind Insurance Technology, Melbourne VIC
+April 2025 to Present
+
+  * Helped build a RAG based assistant that answers staff questions
+    from around 4,000 internal policy documents.
+  * Wrote document loading and chunking scripts and set up a
+    pgvector store for search.
+  * Built an evaluation set of 300 test questions to check answer
+    quality and track changes between versions.
+  * Wrapped model calls in a FastAPI service with logging, which made
+    it easier for the wider team to monitor usage and errors.
+  * Took part in code reviews and wrote team guides on prompt and
+    retrieval settings.
+
+
+Graduate Software Engineer (Machine Learning Team)
+Bluestone Analytics, Melbourne VIC
+February 2024 to March 2025
+
+  * Supported the training and testing of a text classification
+    model used to sort customer support emails.
+  * Cleaned and labelled training data and helped improve model
+    accuracy from about 81 percent to 88 percent on the test set.
+  * Packaged the model in Docker and helped deploy it to AWS.
+  * Built small internal dashboards to show model performance over
+    time.
+
+
+Machine Learning Intern
+Coastal Health Data Lab, Melbourne VIC
+November 2022 to February 2023 (summer internship)
+
+  * Explored image classification models for a research prototype
+    using PyTorch.
+  * Compared several pretrained models and wrote up results for the
+    research team.
+
+
+EDUCATION
+------------------------------------------------------------------
+Bachelor of Computer Science (Artificial Intelligence major)
+Yarra Valley University, Melbourne VIC
+2020 to 2023
+  * Weighted average mark: 78 (Distinction)
+  * Final year project: a chatbot that answers student questions
+    about course rules using document search
+
+
+CERTIFICATIONS
+------------------------------------------------------------------
+  * AWS Certified Cloud Practitioner (2024)
+  * Microsoft Certified: Azure AI Fundamentals (2024)
+  * Online course: Deep Learning Specialisation (2023)
+
+
+PERSONAL PROJECTS
+------------------------------------------------------------------
+  * Recipe Helper Agent: a small agent that plans weekly meals and
+    builds a shopping list using tool calls to a recipe database.
+    Built with Python, LangChain and FastAPI.
+  * Local LLM Benchmark: compared several small open source models
+    on speed and answer quality on a laptop, and published the
+    results on GitHub.
+  * Hackathon (2023): team member on a project that summarised
+    council meeting minutes for residents. Placed second.
+
+
+INTERESTS
+------------------------------------------------------------------
+Attending local AI and Python meetups, bushwalking, chess.
+
+
+REFEREES
+------------------------------------------------------------------
+Available on request.

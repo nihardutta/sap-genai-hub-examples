@@ -1,0 +1,28 @@
+Note: This file is manually maintained to capture the LLM results.
+
+Prompt key (prompt name in prompts.json -> prompting technique):
+  prompt_8  -> Basic
+  prompt_10 -> Few Shots
+  prompt_12 -> Metaprompting
+  prompt_13 -> Few Shots + Metaprompting
+
+RESULTS:
+
+                                                is_valid_json correct_categories correct_sentiment correct_urgency
+====================================================================================================================
+Groq:
+basic--openai/gpt-oss-120b                          100.0%              91.5%             25.0%           65.0%
+few_shot--openai/gpt-oss-120b                       100.0%              91.0%             40.0%           65.0%
+metaprompting--basic--openai/gpt-oss-120b           100.0%              91.0%             50.0%           95.0%
+metaprompting--few_shot--openai/gpt-oss-120b        100.0%              90.0%             35.0%           80.0%
+
+basic--openai/gpt-oss-20b                           100.0%              92.0%             55.0%           90.0%
+few_shot--openai/gpt-oss-20b                        100.0%              89.0%             65.0%           70.0%
+metaprompting--basic--openai/gpt-oss-20b            100.0%              91.0%             65.0%           95.0%
+metaprompting--few_shot--openai/gpt-oss-20b         100.0%              90.5%             60.0%           95.0%
+
+OpenRouter:
+basic--google/gemma-4-26b-a4b-it                    100.0%              89.0%             25.0%           90.0%
+few_shot--google/gemma-4-26b-a4b-it                 100.0%              91.0%             40.0%           85.0%
+metaprompting--basic--google/gemma-4-26b-a4b-it     100.0%              90.5%             25.0%           90.0%
+metaprompting--few_shot--google/gemma-4-26b-a4b-it  100.0%              89.5%             25.0%          100.0%

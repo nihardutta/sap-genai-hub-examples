@@ -1,0 +1,119 @@
+
+==================================================================
+PRIYA MARSDEN
+Senior Data Analyst
+Melbourne VIC, Australia
+Phone: 0491 570 156
+Email: priya.marsden@example.com
+LinkedIn: linkedin.com/in/example-priya-marsden
+==================================================================
+
+PROFESSIONAL SUMMARY
+------------------------------------------------------------------
+Senior Data Analyst with 9 years of experience turning business
+questions into clear, data based answers. Skilled in SQL, Python
+and Power BI, with a background in retail, logistics and financial
+services. Experienced in building reporting platforms, leading small
+analyst teams and working closely with executives to shape decisions
+on pricing, supply chain and customer retention.
+
+
+KEY SKILLS
+------------------------------------------------------------------
+Data and analysis
+  * SQL (Snowflake, SQL Server, PostgreSQL)
+  * Python (pandas, NumPy, scikit learn, statsmodels)
+  * Statistical analysis, A/B testing, forecasting
+  * Data modelling and dimensional design
+
+Visualisation and reporting
+  * Power BI (DAX, Power Query), Tableau
+  * Executive dashboards and self service reporting
+
+Tools and platforms
+  * dbt, Azure Data Factory, Git
+  * Excel (advanced), Jira, Confluence
+
+Business and leadership
+  * Stakeholder management at executive level
+  * Mentoring junior analysts
+  * Translating technical findings into plain language
+
+
+PROFESSIONAL EXPERIENCE
+------------------------------------------------------------------
+
+Senior Data Analyst
+Harbourline Retail Group, Melbourne VIC
+March 2022 to Present
+
+  * Lead a team of four analysts supporting merchandising, pricing
+    and store operations across 140 stores.
+  * Designed a Power BI reporting suite that replaced 30 manual
+    weekly spreadsheets, saving about 25 hours of staff time per week.
+  * Built a markdown pricing model in Python that helped reduce end
+    of season stock write offs by around 12 percent.
+  * Ran A/B tests on loyalty program offers and presented results
+    to the executive team, which informed the 2024 program redesign.
+  * Set up data quality checks in dbt, cutting reporting errors
+    raised by the business by roughly half.
+
+
+Data Analyst
+Kestrel Freight and Logistics, Melbourne VIC
+June 2018 to February 2022
+
+  * Developed demand forecasts for warehouse labour planning across
+    six distribution centres.
+  * Created on time delivery dashboards used daily by operations
+    managers and the national logistics director.
+  * Analysed route and fuel data to identify savings opportunities
+    worth an estimated $1.1 million a year.
+  * Worked with IT to migrate legacy reports from SQL Server to
+    Snowflake.
+
+
+Junior Data Analyst
+Bluegum Mutual Bank, Melbourne VIC
+February 2016 to May 2018
+
+  * Produced monthly customer retention and product performance
+    reports for the retail banking division.
+  * Built churn analysis in SQL and Excel that helped the marketing
+    team target customers at risk of leaving.
+  * Supported regulatory reporting by checking and reconciling
+    large data extracts.
+
+
+EDUCATION
+------------------------------------------------------------------
+Master of Data Science
+Yarra Valley University, Melbourne VIC
+2017 to 2019 (completed part time)
+
+Bachelor of Commerce (Economics and Statistics)
+Yarra Valley University, Melbourne VIC
+2012 to 2015
+
+
+CERTIFICATIONS
+------------------------------------------------------------------
+  * Microsoft Certified: Power BI Data Analyst Associate (2021)
+  * SnowPro Core Certification (2022)
+  * Tableau Desktop Specialist (2019)
+
+
+PROJECTS AND ACHIEVEMENTS
+------------------------------------------------------------------
+  * Customer Lifetime Value Model: built a model to segment loyalty
+    members by predicted value, now used to plan marketing spend.
+  * Internal Data Literacy Program: designed and ran a six week
+    course that trained over 60 staff in reading dashboards and
+    basic SQL.
+  * Speaker at a Melbourne analytics meetup on practical A/B testing
+    for retail (2023).
+
+
+REFEREES
+------------------------------------------------------------------
+Available on request.
